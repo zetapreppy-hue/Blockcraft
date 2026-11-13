@@ -1,0 +1,1 @@
+Blockcraft is an HTML5 game playable on mobile and PC via the web. It wasn't very elaborate; I created it myself. It features various block types, but I didn't add much; it's just a single HTML5 file. Made with Zetapreppy. I wish you good games. Game by zetapreppy 
